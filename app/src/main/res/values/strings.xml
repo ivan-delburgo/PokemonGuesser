@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ShowcaseApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- starting screen -->
+    <string name="game_explanation">You have 10 attempts to guess the pokemon from the image!</string>
+    <string name="game_catcher">Gotta guess\'em all!</string>
+    <string name="color_legend">Color legend:\nGreen: letter is in position\nYellow: letter is present but not in position\nBlack: letter is not present</string>
+    <string name="start_game_cta">Start game</string>
+    <!-- game screen -->
+    <string name="submit_cta">Submit</string>
+    <string name="name_length">Name length: %1$d</string>
+    <string name="guessing_image_content_description">Pokemon to guess image</string>
+    <!-- detail screen -->
+    <string name="play_again_cta">Play again!</string>
+    <string name="detail_image_content_description">%1$s image</string>
+    <string name="detail_it_was">it was:</string>
+    <string name="detail_success">Congratulations!</string>
+    <string name="detail_failed">Ooooh!</string>
+</resources>
